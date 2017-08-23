@@ -10,6 +10,7 @@ void main1()
 	wprintf(L"%wc\n", ch);
 	wchar_t str[100] = L"µa»æ®Ú¥»½Þ»LJJfs";
 	wprintf(L"%s", str);
+
 	system("pause");
 }
 
